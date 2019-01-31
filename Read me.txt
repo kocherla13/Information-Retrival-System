@@ -1,0 +1,24 @@
+open project file in pycharm and click on the run button 
+You can see the output as : time taken is aprox 103.741534948349 seconds
+
+ "parser_output" ( conatining term dictionary and document dictionary), "forwardIndex" 
+and "invertedIndex"
+
+the output is in the file vsm_output.txt has the score of each document in three query combinations i.e. title , title+description, title+narration.
+
+The precision and recall of three query combinations are in three files namely accuracyForTitle, accuracyForTitle+desc, accuracyForTitle+narr.
+
+References:
+
+https://docs.python.org/2/tutorial/inputoutput.html
+https://stackoverflow.com/questions/21823229/finding-next-occurring-tag-and-its-enclosed-text-with-beautiful-soup
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://stackoverflow.com/questions/5999747/beautifulsoup-nextsibling
+http://www.nltk.org/howto/stem.html
+https://stackoverflow.com/questions/7370801/measure-time-elapsed-in-python
+https://docs.python.org/3/library/re.html
+https://docs.python.org/3/howto/regex.html
+https://stackoverflow.com/questions/8023306/get-key-by-value-in-dictionary
+https://www.tutorialspoint.com/python/dictionary_get.html
+
+
